@@ -1,0 +1,1 @@
+![CI](https://github.com/nikitaSB01/domOne/actions/workflows/web.yml/badge.svg)
