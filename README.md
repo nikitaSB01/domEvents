@@ -1,1 +1,1 @@
-![CI](https://github.com/nikitaSB01/domOne/actions/workflows/web.yml/badge.svg)
+![CI](https://github.com/nikitaSB01/domEvents/actions/workflows/web.yml/badge.svg)
